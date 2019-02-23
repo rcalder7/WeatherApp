@@ -1,0 +1,1 @@
+An assignment in my IT338 Web Development Frameworks class at DePaul. I utilized GatsbyJs, and React components to develop this site. I implemented API keys from DarkSky and the weather app to fetch data for my application.
